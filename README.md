@@ -12,6 +12,6 @@ Docker e Kubernetes.
 [__Kubernetes pt3__](../docs/k8s/k8s-pt3.md)
 
 [__Kubernetes Azure__](../docs/k8s/azure.md)
-
+    
 
 
