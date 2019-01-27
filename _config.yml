@@ -6,3 +6,6 @@ relative_links:
 include:
   - README.md
 theme: jekyll-theme-slate
+
+# Google Analytics
+google_analytics: UA-133281410-1
