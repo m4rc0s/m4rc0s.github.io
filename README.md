@@ -3,7 +3,7 @@
 Um passo a passo de como criar, publicar e orquestrar containers utilizando
 Docker e Kubernetes.
 
-[__Docker__](../docs/docker-fundamentals.md)
+[__Docker__](docker-fundamentals.md)
 
 [__Kubernetes pt1__](k8s-pt1.md)
 
