@@ -1,17 +1,41 @@
-# Docker&K8s
+# Website
 
-Um passo a passo de como criar, publicar e orquestrar containers utilizando
-Docker e Kubernetes.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-[__Docker__](docker-fundamentals.md)
+### Installation
 
-[__Kubernetes pt1__](k8s-pt1.md)
+```
+$ yarn
+```
 
-[__Kubernetes pt2__](k8s-pt2.md)
+### Local Development
 
-[__Kubernetes pt3__](k8s-pt3.md)
+```
+$ yarn start
+```
 
-[__Kubernetes Azure__](k8s-azure.md)
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+### Build
 
+```
+$ yarn build
+```
 
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
