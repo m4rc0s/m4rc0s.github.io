@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+![Build status](https://github.com/m4rc0s/m4rc0s.github.io/actions/workflows/publish.yaml/badge.svg?event=push)
 
 ### Installation
 

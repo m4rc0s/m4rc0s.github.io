@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Sample Users Management Service
 
 Sample users management application
