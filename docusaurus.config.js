@@ -9,7 +9,7 @@ const projectName = "m4rc0s.github.io";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Software Engineering',
+  title: 'Project Docs Site with Docusaurus + GitHub Pages',
   tagline: 'Publishing docusaurus web site into GitHub pages with GitHub actions',
   favicon: 'img/favicon.ico',
 
