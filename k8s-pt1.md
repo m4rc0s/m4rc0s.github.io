@@ -1,2 +1,0 @@
-# Kubernetes Parte 1
-

@@ -9,8 +9,8 @@ const projectName = "m4rc0s.github.io";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Software Engineering',
+  tagline: 'Publishing docusaurus web site into GitHub pages with GitHub actions',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
